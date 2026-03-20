@@ -43,3 +43,5 @@ J2 pinout reference:
 - Pin 4: SWCLK
 - Pin 5: GND
 - Pin 10: NRST
+
+DESIGNED & ENGINEERED BY BRANDON SHELLY

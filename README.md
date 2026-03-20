@@ -13,4 +13,4 @@ USB-C (USB 2.0) STM32F072CBT6-based programmer/debug adapter board.
 
 
 
-DESIGNED & ENGINEERED BY BRANDON SHELLY
+
